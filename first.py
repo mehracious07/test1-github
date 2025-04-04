@@ -1,3 +1,3 @@
 print("hello world")
 print("hello2")
-Print("the changes i have made")
+print("the changes i have made")
